@@ -1,3 +1,4 @@
+/*Copy right*/
 package com.developerstack.config;
 
 import org.springframework.boot.SpringApplication;
